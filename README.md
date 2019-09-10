@@ -10,5 +10,8 @@ The goal of this game is to move the "blank" tile in order to get the following 
 
 ## To-do list
 - [ ] Correct the moves variable. If blank if at the top of the tileset, if up is pressed, a move is recorded.
-- [ ] Seperate the code into two files. One for the tileset (board) and the other for running the game.
+- [x] Seperate the code into two files. One for the tileset (board) and the other for running the game.
 - [x] Add gif from the game.
+- [ ] Add BFS algorithm
+- [ ] Add DFS algorithm
+- [ ] Add A\* algorithm

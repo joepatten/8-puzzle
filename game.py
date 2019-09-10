@@ -1,8 +1,4 @@
-import os
 import curses
-
-
-os.chdir(r'C:\Users\josep\python_files\CptS_540\8_puzzle')
 from puzzle_board import Puzzle
 
 
