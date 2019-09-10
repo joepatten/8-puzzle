@@ -45,7 +45,7 @@ class puzzle():
         return board
     
     def randomize_board(self):
-        for i in range(30):
+        for i in range(50):
             direction = random.choice(list(self.d.keys()))
             self.move(direction)
         
